@@ -1,3 +1,3 @@
 # Booklist
 
-## Work - Javascript and Bootstrap
+## Bootstrap and javascript
